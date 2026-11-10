@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Solo se usa en Android 9 o menor (en 10+ el Excel va a Descargas por MediaStore) -->
+<paths>
+    <external-files-path name="descargas" path="Download/" />
+</paths>

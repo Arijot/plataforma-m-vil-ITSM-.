@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtSubtitle" type="id" />
+    <item name="imgSupportIcon" type="id" />
+    <item name="logoContainer" type="id" />
+    <item name="imgLogoIcon" type="id" />
+    <item name="lblEmail" type="id" />
+    <item name="edtEmail" type="id" />
+    <item name="lblPassword" type="id" />
+    <item name="edtPassword" type="id" />
+    <item name="btnIngresar" type="id" />
+    <item name="imgProfileTech" type="id" />
+    <item name="txtNameTech" type="id" />
+    <item name="txtRoleTech" type="id" />
+    <item name="txtEmailTech" type="id" />
+    <item name="btnListaTickets" type="id" />
+    <item name="btnActualizarInfo" type="id" />
+    <item name="btnCerrarSesionTech" type="id" />
+</resources>
